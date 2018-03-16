@@ -54,6 +54,7 @@ In the dataset, I have changed the feature names of the 5 metal oxide sensors to
 
 From the below summary plot, we can check for the percentage of missing values in each of the feature, mean and median of each feature. We can also check for the distribution of each feature in terms of histograms. 
 
+![alt text](https://github.com/asharvi1/UCI-Air-Quality-Data/blob/master/plot%20images/Analysis%20Summary%20Plot.png)
 
 
 
