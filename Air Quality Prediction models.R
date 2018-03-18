@@ -190,8 +190,8 @@ no2_test_set = subset(no2_dataset, split_no2_dataset == FALSE)
 # Splitting the c6h6 dataset to training and test set
 set.seed(123)
 split_c6h6_dataset = sample.split(c6h6_dataset$c6h6, SplitRatio = 0.8)
-c6h6_train_set = subset(c6h6_dataset, split_c6h6_dataset = TRUE)
-c6h6_test_set = subset(c6h6_dataset, split_c6h6_dataset = FALSE)
+c6h6_train_set = subset(c6h6_dataset, split_c6h6_dataset == TRUE)
+c6h6_test_set = subset(c6h6_dataset, split_c6h6_dataset == FALSE)
 
 ##### Linear regression Models for all the datasets #####
 
