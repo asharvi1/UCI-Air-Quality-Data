@@ -1,6 +1,5 @@
 
 
-
 # Analysis on Air Quality Dataset from UCI
 
 ## About the Data:
@@ -184,3 +183,5 @@ All the models are fitted with linear regression to check the contribution of al
 
 1.	Dataset: https://archive.ics.uci.edu/ml/datasets/Air+quality
 2.	Clean Dataset: https://github.com/cmertin/Machine_Learning/blob/master/Air_Quality_Prediction/Data/AirQuality_clean.csv
+
+### By Arun Chandra Sharvirala
